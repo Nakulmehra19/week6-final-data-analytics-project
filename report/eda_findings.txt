@@ -1,0 +1,15 @@
+TASK 4: EXPLORATORY DATA ANALYSIS FINDINGS
+==================================================
+
+- The category with the highest total sales is Technology (836154.03).
+- The region with the highest total sales is West (725457.82).
+- Total profit across the analysed records is 286397.02.
+- The Pearson correlation between Sales and Profit is 0.479. Correlation indicates association, not causation.
+- The Pearson correlation between Discount and Profit is -0.219. Further analysis is needed before concluding how discounts affect profitability.
+- Final analysed dataset contains 9994 rows and 21 columns.
+
+Missing values after handling:
+0
+
+Final dataset shape:
+(9994, 21)
